@@ -5,16 +5,18 @@ color: rgb(46,105,163);
 text-align: center;
 }
 
+.page{
+ background-color: lightblue;
+}
+
 .body_text{
 font-size: 14px;
 font-family: Trebuchet MS, sans-serif;
 text-align: center;
-background-color: lightblue;
 }
 
 .image{
  display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  background-color: lightblue;
 }
