@@ -12,5 +12,6 @@ text-align: center;
 }
 
 #gothic{
-text-align: center;
+display: block;
+margin: auto;
 }
