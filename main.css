@@ -5,10 +5,15 @@ font-family: Lucida Sans Unicode, serif;
 
 p{
 font-size: 14px;
-font-family: Trebuchet MS, serif;
+font-family: Trebuchet MS, sans-serif;
 }
 
 ul{
 font-size: 14px;
-font-family: Trebuchet MS, serif;
+font-family: Trebuchet MS, sans-serif;
+}
+
+a{
+font-size: 14px;
+font-family: Trebuchet MS, sans-serif;
 }
