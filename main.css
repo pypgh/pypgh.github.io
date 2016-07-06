@@ -12,6 +12,7 @@ text-align: center;
 }
 
 .image{
-display: block;
-margin: auto;
+ display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
