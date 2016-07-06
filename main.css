@@ -1,4 +1,14 @@
 h1{
 font-size: 32px;
-font-family: Goudy Old Style, serif;
+font-family: Lucida Sans Unicode, serif;
+}
+
+p{
+font-size: 14px;
+font-family: Trebuchet MS, serif;
+}
+
+ul{
+font-size: 14px;
+font-family: Trebuchet MS, serif;
 }
