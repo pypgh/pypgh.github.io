@@ -26,6 +26,7 @@ text-align: center;
 .image{
   display: flex;
   justify-content: center;
-  height: 437px;
-  width: 609px;
+  max-height: 437px;
+  max-width: 609px;
+  overflow: hidden;
 }
