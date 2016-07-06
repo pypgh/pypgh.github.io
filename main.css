@@ -26,6 +26,6 @@ text-align: center;
 .image{
   display: flex;
   justify-content: center;
-  max-width: 100%;
+  width: auto;
   height: auto;
 }
