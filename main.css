@@ -9,6 +9,10 @@ text-align: center;
  background-color: lightblue;
 }
 
+.bio{
+ text-align:center;
+}
+
 .body_text{
 font-size: 20px;
 font-family: Trebuchet MS Bold, sans-serif;
