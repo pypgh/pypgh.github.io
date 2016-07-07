@@ -1,6 +1,6 @@
 h1{
 font-size: 32px;
-font-family: Gill Sans, sans-serif;
+font-family: Lato, sans-serif;
 color: rgb(46,105,163);
 text-align: center;
 }
@@ -11,7 +11,7 @@ text-align: center;
 
 .bio{
  text-align:center;
- font-family: Gill Sans, sans-serif;
+ font-family: Lato, sans-serif;
 }
 
 .body_text{
