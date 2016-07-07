@@ -10,14 +10,16 @@ text-align: center;
 }
 
 .body_text{
- display: inline-block;
+text-align:left;
+display: inline-block;
 font-size: 20px;
 font-family: Trebuchet MS Bold, sans-serif;
 text-align: center;
 }
 
 ul{
- display: inline-block;
+text-align:left;
+display: inline-block;
 list-style-position: inside;
 font-size: 20px;
 font-family: Trebuchet MS Bold, sans-serif;
