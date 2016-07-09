@@ -2,7 +2,7 @@ h1{
  font-size: 32px;
  font-family: 'Lobster', cursive;
  font-weight: 400;
- color: rgb(46,105,163);
+ color: 	#F0F8FF;
  text-align: center;
 }
 
@@ -16,6 +16,7 @@ h1{
  font-size: 18px;
  font-family: 'Lato', sans-serif;
  text-align: center;
+ color: white;
 }
 
 .body_text_left{
@@ -29,3 +30,14 @@ h1{
   flex-wrap: wrap;
   justify-content: center;
 }
+
+
+
+html { 
+  background: url("http://i.imgur.com/mqo8438.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
