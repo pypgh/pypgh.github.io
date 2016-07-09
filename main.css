@@ -9,13 +9,15 @@ h1{
 
 .menu{
  text-align:center;
- font-family: 'Lato:900', sans-serif;
+ font-family: 'Lato', sans-serif;
  text-decoration: none;
 }
 
 .body_text{
  font-size: 18px;
  font-family: 'Lato', sans-serif;
+ font-style: italic;
+ font-weight: 700;
  text-align: center;
  color: white;
 }
