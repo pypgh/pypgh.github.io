@@ -1,9 +1,9 @@
 h1{
-font-size: 32px;
-font-family: 'Lobster', cursive;
-font-weight: 400;
-color: rgb(46,105,163);
-text-align: center;
+ font-size: 32px;
+ font-family: 'Lobster', cursive;
+ font-weight: 400;
+ color: rgb(46,105,163);
+ text-align: center;
 }
 
 
@@ -13,16 +13,18 @@ text-align: center;
 }
 
 .body_text{
-font-size: 18px;
-font-family: 'Lato', sans-serif;
-text-align: center;
+ font-size: 18px;
+ font-family: 'Lato', sans-serif;
+ margin-left: auto;
+ margin-right: auto;
 }
 
 ul{
-list-style-position: inside;
-font-size: 18px;
-font-family: 'Lato', sans-serif;
-text-align: center;
+ list-style-position: inside;
+ font-size: 18px;
+ font-family: 'Lato', sans-serif;
+ margin-left: auto;
+ margin-right: auto;
 }
 
 .image{
