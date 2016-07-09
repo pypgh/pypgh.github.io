@@ -12,19 +12,19 @@ text-align: center;
 
 .bio{
  text-align:center;
- font-family: Lato, sans-serif;
+ font-family: 'Lato', sans-serif;
 }
 
 .body_text{
 font-size: 18px;
-font-family: 'Pacifico', cursive;
+font-family: 'Lato', sans-serif;
 text-align: center;
 }
 
 ul{
 list-style-position: inside;
 font-size: 18px;
-font-family: 'Pacifico', cursive;
+font-family: 'Lato', sans-serif;
 text-align: center;
 }
 
