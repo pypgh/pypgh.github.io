@@ -7,9 +7,10 @@ h1{
 }
 
 
-.bio{
+.menu{
  text-align:center;
  font-family: 'Lato', sans-serif;
+ text-decoration: none;
 }
 
 .body_text{
