@@ -6,6 +6,13 @@ h1{
  text-align: center;
 }
 
+h2{
+ font-size: 20px;
+ font-family: 'Lato', sans-serif;
+ color: #87CEFA;
+ text-align: center;
+}
+
 
 .menu{
  text-align:center;
@@ -17,6 +24,10 @@ h1{
 }
 
 #button2{
+ text-decoration: none;
+}
+
+#button3{
  text-decoration: none;
 }
 
