@@ -6,7 +6,9 @@
  text-align: center;
   text-decoration: none;
 }
-
+.name{
+ text-align: center;
+}
 h2{
  font-size: 20px;
  font-family: 'Lato', sans-serif;
