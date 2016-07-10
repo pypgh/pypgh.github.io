@@ -1,9 +1,10 @@
-h1{
+#title{
  font-size: 32px;
  font-family: 'Lobster', cursive;
  font-weight: 400;
  color: #87CEFA;
  text-align: center;
+  text-decoration: none;
 }
 
 h2{
