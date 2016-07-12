@@ -40,19 +40,35 @@ h2{
  text-decoration: none;
   color: #87CEFA;
 }
+#button2:hover{
+ font-size: 24px;
+ 
+}
 
 #button3{
  text-decoration: none;
   color: #87CEFA;
 }
+#button3:hover{
+ font-size: 24px;
+ 
+}
 #button4{
  text-decoration: none;
   color: #87CEFA;
+}
+#button4:hover{
+ font-size: 24px;
+ 
 }
 
 #button5{
  text-decoration: none;
   color: #87CEFA;
+}
+#button5:hover{
+ font-size: 24px;
+ 
 }
 #gothic{
  text-decoration: none;
