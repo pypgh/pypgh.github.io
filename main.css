@@ -6,9 +6,12 @@
  text-align: center;
   text-decoration: none;
 }
+
 .name{
  text-align: center;
+ text-decoration: none;
 }
+
 h2{
  font-size: 20px;
  font-family: 'Lato', sans-serif;
@@ -21,6 +24,7 @@ h2{
  text-align:center;
  font-family: 'Lato', sans-serif;
  color: #87CEFA;
+ text-decoration: none;
 }
 
 #button1{
