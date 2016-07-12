@@ -31,6 +31,10 @@ h2{
  text-decoration: none;
   color: #87CEFA;
 }
+#button1:hover{
+ color: 	#00BFFF;
+ 
+}
 
 #button2{
  text-decoration: none;
