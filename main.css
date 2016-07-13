@@ -6,6 +6,9 @@
  text-align: center;
   text-decoration: none;
 }
+#title:hover{
+ color: #CEEBFD;
+}
 
 .name{
  text-align: center;
