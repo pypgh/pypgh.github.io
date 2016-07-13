@@ -32,7 +32,8 @@ h2{
   color:  	#87CEFA;
 }
 #button1:hover{
-
+ text-decoration: underline;
+ color: #87CEFA;
 }
 
 #button2{
