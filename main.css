@@ -76,7 +76,10 @@ h2{
  text-decoration: none;
   color: #87CEFA;
 }
-
+#gothic:hover{
+  text-decoration: underline;
+ color: #87CEFA;
+}
 .body_text{
  font-size: 18px;
  font-family: 'Lato', sans-serif;
