@@ -41,7 +41,8 @@ h2{
   color: #87CEFA;
 }
 #button2:hover{
-
+ text-decoration: underline;
+ color: #87CEFA;
  
 }
 
@@ -50,14 +51,16 @@ h2{
   color: #87CEFA;
 }
 #button3:hover{
-
+ text-decoration: underline;
+ color: #87CEFA;
 }
 #button4{
  text-decoration: none;
   color: #87CEFA;
 }
 #button4:hover{
-
+ text-decoration: underline;
+ color: #87CEFA;
 }
 
 #button5{
@@ -65,7 +68,8 @@ h2{
   color: #87CEFA;
 }
 #button5:hover{
-
+ text-decoration: underline;
+ color: #87CEFA;
 }
 #gothic{
  text-decoration: none;
