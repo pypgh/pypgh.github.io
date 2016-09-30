@@ -105,8 +105,8 @@ font-weight: 750;
  
  margin: 1px;
  background-color: #ffffff;
- opacity: 0.6;
-    filter: alpha(opacity=60);
+ opacity: 0.2;
+    filter: alpha(opacity=20);
  
 }
 
