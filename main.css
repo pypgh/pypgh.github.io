@@ -102,13 +102,7 @@ font-weight: 750;
  font-weight: 700;
  text-align: center;
  color: white;
- 
- background: rgba(255,255,255,.2);
-padding: 3px;
-font-size: 100%;
-color: #000000;
 
- 
 }
 
 .body_text_left{
@@ -116,10 +110,14 @@ color: #000000;
  text-align: left;
 }
 
-.body_text_left p{
-    margin: 5%;
-    color: #ffffff;
+.body_text_left span{
+ background: rgba(255,255,255,.2);
+padding: 3px;
+font-size: 100%;
+color: #000000;
 }
+
+
 
 .image{
   display: flex;
