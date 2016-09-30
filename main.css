@@ -115,6 +115,11 @@ font-weight: 750;
  text-align: left;
 }
 
+.body_text_left p{
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
 
 .image{
   display: flex;
