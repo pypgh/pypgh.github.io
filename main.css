@@ -102,6 +102,10 @@ font-weight: 750;
  font-weight: 700;
  text-align: center;
  color: white;
+ background-color: #ffffff;
+ opacity: 0.6;
+    filter: alpha(opacity=60);
+ 
 }
 
 .body_text_left{
