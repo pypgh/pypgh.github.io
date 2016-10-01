@@ -111,7 +111,9 @@ font-weight: 750;
 }
 
 
-
+.body_text_left p span{
+ background-color: black;
+}
 
 
 .image{
