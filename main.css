@@ -139,6 +139,7 @@ text-align: center;
 .body_text_left p span{
   background:rgba(255,255,255,0.3);
  margin: 2px;
+ padding: 0.2em;
 }
 
 .body_text_left ul li span{
