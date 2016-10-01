@@ -5,10 +5,17 @@
  color: #87CEFA;
  text-align: center;
   text-decoration: none;
-
+ 
 }
 #title:hover{
  color: #CEEBFD;
+}
+#header {
+  position: fixed;
+}
+
+#content {
+  margin-top: 100px;
 }
 
 .name{
