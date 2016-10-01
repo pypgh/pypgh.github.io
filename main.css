@@ -85,24 +85,6 @@ font-weight: 900;
  color: #87CEFA;
 }
 
-#italian{
- text-decoration: underline;
- color: #87CEFA;
-}
-#italian:hover{
- text-decoration: underline;
- color: #87CEFA;
-}
-
-
-#gothic{
- text-decoration: none;
-  color: #87CEFA;
-}
-#gothic:hover{
-  text-decoration: underline;
- color: #87CEFA;
-}
 .body_text{
  font-size: 18px;
  font-family: 'Lato', sans-serif;
@@ -122,11 +104,11 @@ font-weight: 900;
 .body_text_left p span{
   background:rgba(255,255,255,0.3);
  margin: 2px;
-
-
 }
 
-
+.body_text_left ul li span{
+  background:rgba(255,255,255,0.3);
+}
 
 
 
