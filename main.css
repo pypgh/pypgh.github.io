@@ -112,7 +112,7 @@ font-weight: 750;
 
 
 .body_text_left p span{
- background-color: black;
+  background:rgba(255,255,255,0.3);
 }
 
 
