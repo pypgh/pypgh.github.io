@@ -10,11 +10,11 @@
 #title:hover{
  color: #CEEBFD;
 }
-#header {
+.header {
   position: fixed;
 }
 
-#content {
+.content {
   margin-top: 100px;
 }
 
