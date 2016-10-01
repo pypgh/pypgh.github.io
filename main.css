@@ -116,7 +116,46 @@ font-weight: 900;
 }
 
 
-
+#resume{
+  text-decoration: none;
+   color: #87CEFA;
+}
+#linkedin{
+  text-decoration: none;
+   color: #87CEFA;
+}
+#twitter{
+  text-decoration: none;
+   color: #87CEFA;
+}
+#courses{
+  text-decoration: none;
+   color: #87CEFA;  
+}
+#resume:hover{
+ text-decoration: underline;
+ color: #87CEFA;
+}
+#linkedin:hover{
+ text-decoration: underline;
+ color: #87CEFA;
+}
+#twitter:hover{
+ text-decoration: underline;
+ color: #87CEFA;
+}
+#courses:hover{
+ text-decoration: underline;
+ color: #87CEFA;
+}
+#photos{
+  text-decoration: none;
+   color: #87CEFA;  
+}
+#photos:hover{
+ text-decoration: underline;
+ color: #87CEFA;
+}
 
 html { 
   background: url("http://i.imgur.com/ZVuUuUy.jpg") no-repeat center center fixed; 
