@@ -114,7 +114,8 @@ font-weight: 750;
 
 .body_text_left p span{
   background:rgba(255,255,255,0.3);
- padding: 10px;
+ margin: 2px;
+ padding: 2px;
 }
 
 
