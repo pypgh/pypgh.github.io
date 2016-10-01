@@ -12,6 +12,7 @@
 }
 .header {
   position: fixed;
+  text-align: center;
 }
 
 .content {
