@@ -22,9 +22,15 @@ h2{
  color: #87CEFA;
  text-align: center;
 font-weight: 900;
- 
 }
 
+h3{
+ font-size: 30px;
+ font-family: 'Lato', sans-serif;
+ color: #87CEFA;
+ text-align: center;
+font-weight: 900;
+}
 
 .menu{
  text-align:center;
