@@ -163,6 +163,12 @@ text-align: center;
  color: #87CEFA;
 }
 
+.image{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 html { 
   background: url("http://i.imgur.com/ZVuUuUy.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
