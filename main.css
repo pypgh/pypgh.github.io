@@ -94,8 +94,9 @@ font-weight: 900;
 
 .body_text{
   text-align: center;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Hind Madurai', sans-serif;
   font-size: 18px;
+  font-weight: 300;
   color: white;
 }
 
