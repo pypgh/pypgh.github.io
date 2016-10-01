@@ -152,14 +152,17 @@ text-align: center;
    color: #87CEFA;
 }
 #linkedin{
+  font-size: 150%;
   text-decoration: none;
    color: #87CEFA;
 }
 #twitter{
+  font-size: 150%;
   text-decoration: none;
    color: #87CEFA;
 }
 #courses{
+  font-size: 150%;
   text-decoration: none;
    color: #87CEFA;  
 }
@@ -180,6 +183,7 @@ text-align: center;
  color: #87CEFA;
 }
 #photos{
+  font-size: 150%;
   text-decoration: none;
    color: #87CEFA;  
 }
