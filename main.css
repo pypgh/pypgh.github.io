@@ -1,5 +1,5 @@
 #title{
- font-size: 32px;
+ font-size: 400%;
  font-family: 'Lobster', cursive;
  font-weight: 400;
  color: #87CEFA;
@@ -17,7 +17,7 @@
 }
 
 h2{
- font-size: 30px;
+ font-size: 270%;
  font-family: 'Lato', sans-serif;
  color: #87CEFA;
  text-align: center;
@@ -25,21 +25,21 @@ font-weight: 900;
 }
 
 h3{
- font-size: 30px;
+ font-size: 270%;
  font-family: 'Lato', sans-serif;
  color: #87CEFA;
  text-align: center;
 font-weight: 900;
 }
 h4{
-  font-size: 30px;
+  font-size: 270%;
  font-family: 'Lato', sans-serif;
  color: #87CEFA;
  text-align: center;
 font-weight: 900;
 }
 h5{
-font-size: 30px;
+font-size: 270%;
 font-family: 'Lato', sans-serif;
 color: #87CEFA;
 font-weight: 900;
@@ -51,6 +51,7 @@ text-align: center;
  color: #87CEFA;
  font-weight: 900;
  text-decoration: none;
+ font-size: 150%
 }
 
 #button1{
