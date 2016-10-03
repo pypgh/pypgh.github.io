@@ -159,20 +159,28 @@ text-align: center;
   text-decoration: none;
    color: #87CEFA;
 }
+#resume span{
+   background:rgba(255,255,255,0.3);
+ margin: 2px;
+}
 #linkedin{
   font-size: 150%;
   text-decoration: none;
    color: #87CEFA;
 }
-#twitter{
-  font-size: 150%;
-  text-decoration: none;
-   color: #87CEFA;
+#linkedin span{
+   background:rgba(255,255,255,0.3);
+ margin: 2px;
 }
+
 #courses{
   font-size: 150%;
   text-decoration: none;
    color: #87CEFA;  
+}
+#courses span{
+   background:rgba(255,255,255,0.3);
+ margin: 2px;
 }
 #resume:hover{
  text-decoration: underline;
@@ -198,6 +206,10 @@ text-align: center;
 #photos:hover{
  text-decoration: underline;
  color: #87CEFA;
+}
+#photos span{
+   background:rgba(255,255,255,0.3);
+ margin: 2px;
 }
 
 .image{
