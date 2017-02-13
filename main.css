@@ -153,6 +153,9 @@ text-align: center;
   background:rgba(255,255,255,0.3);
 }
 
+.projs{
+   display: inline-block;
+}
 
 #resume{
  font-size: 150%;
